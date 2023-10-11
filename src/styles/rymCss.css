@@ -1,0 +1,24 @@
+
+.containerRYM{
+  position: fixed;
+  z-index: 5;
+  right: 3%;
+  top:10%;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.phraseRYM{
+  color: white;
+  width: 15rem;
+  border-radius: 0.5rem;
+  background-color: black;
+  border: 3.5px solid #8EFF8B;
+  padding: 0.5rem;
+}
+
+.RYMC {
+  width: 8rem;
+  cursor: pointer;
+}

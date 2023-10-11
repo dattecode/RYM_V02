@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
+.containerLoad {
+  position: fixed;
+  z-index: 15;
+  background-color: #222222;
+  color: white;
+  width: 100%;
+  height: 100%;
+  font-family: 'Kanit', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.loadG {
+
+  width: 20rem;
+}

@@ -1,0 +1,24 @@
+.dmsContainer {
+  z-index: 5;
+  border: 2px solid #8eff8b;
+  color: #938686;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 2.5rem 0rem;
+}
+
+.tiDms {
+  color: #8eff8b;
+  width: 100%;
+  margin: 1rem;
+}
+
+.desDms {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  margin: 1rem;
+}

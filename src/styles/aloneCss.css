@@ -1,0 +1,29 @@
+
+.alone {
+  width: 50%;
+  z-index: 10;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.aloneImg {
+  width: 100%;
+  border-radius: 1rem;
+  border-radius: 1rem;
+  border: 2px solid #8EFF8B;
+}
+
+.infoAlone {
+  position: absolute;
+  top: 50%;
+  right: 25%;
+  color: yellow;
+  height: 3rem;
+  width: 20rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #8EFF8B80;
+  border: 2px solid #8EFF8B;;
+  border-radius: 1rem;
+}
