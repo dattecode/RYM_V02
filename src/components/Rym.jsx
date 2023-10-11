@@ -16,7 +16,7 @@ const Rym = () => {
     setPhrase(true);
     const timerRym = setTimeout(() => {
       setPhrase(false);
-    }, 8000);
+    }, 6000);
     return () => {
       clearInterval(timerRym);
     };
